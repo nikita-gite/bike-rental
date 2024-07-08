@@ -1,0 +1,300 @@
+{
+  "user": [
+    {
+      "id": "rpm",
+      "name": "rpm",
+      "password": "$2a$10$d2MFJBxgoUCR/S6Q9Qhml.0VlNYLzXp/NOqcjsiKaI4assQcOjcma",
+      "email": "rp@g.c",
+      "phone": "2233232323",
+      "country": "india",
+      "address": "dd",
+      "gender": "female"
+    },
+    {
+      "id": "nikita",
+      "name": "nikita gite",
+      "password": "$2a$10$NwcUGJTpha2HwEmpQr5URegVo/dYtekHQpjVC7oY3crKNQ/8cWIK6",
+      "email": "gitenikita2002@gmail.com",
+      "phone": "9359760020",
+      "country": "india",
+      "address": "lasalgaon",
+      "gender": "female"
+    },
+    {
+      "id": "niki",
+      "name": "niki gite",
+      "password": "$2a$10$/FxwBPGPlKnDa4KaV/ZTVuWXKwSTXc8rqiAg5czuEBnvDxiFvT3aq",
+      "email": "niki@gmail.com",
+      "phone": "9359760020",
+      "country": "india",
+      "address": "nashik",
+      "gender": "female"
+    },
+    {
+      "id": "nikita",
+      "name": "nikita gite",
+      "password": "$2a$10$uapCBmWb9QfxTfpy5Z0GTuf47cdBpDp/RSR2yvnprmJoV4DGtj1ty",
+      "email": "gitenikita2002@gmail.com",
+      "phone": "9359760020",
+      "country": "india",
+      "address": "nashik",
+      "gender": "female"
+    },
+    {
+      "id": "aa",
+      "name": "aa bb",
+      "password": "$2a$10$pQC.R.QoG2OQYynj3LVC.uYwpDRnuj9XuipaMjS5bb53rjCuZjm3i",
+      "email": "aa@gmail.com",
+      "phone": "5858585858",
+      "country": "india",
+      "address": "fds",
+      "gender": "female"
+    },
+    {
+      "id": "niki",
+      "name": "nikita gite",
+      "password": "$2a$10$Yu78Wt2GEkp7cD5f8MjLz.D8BqloSA307gJj7xSfVZNHzTxZnOoIS",
+      "email": "gitenikita2002@gmail.com",
+      "phone": "9359760020",
+      "country": "india",
+      "address": "abc",
+      "gender": "female"
+    },
+    {
+      "id": "abcd",
+      "name": "abcd nh",
+      "password": "$2a$10$O03BDhpvxk8zce0IaB1yAO5XjCnD3FBD2zNRCSISou6LRImtT7wBG",
+      "email": "sdff@gmail.com",
+      "phone": "8888965714",
+      "country": "india",
+      "address": "CHANDWAD",
+      "gender": "female"
+    }
+  ],
+  "user2": [
+    {
+      "id": "rp",
+      "name": "rpm",
+      "password": "$2a$10$.Fwx8n7Q.P/orIZkPP8MnOsrXSYkZffj94v49XLoE6qwIvKR4GSS6",
+      "email": "r@g.c",
+      "phone": "223322323",
+      "country": "india",
+      "address": "ced",
+      "gender": "female"
+    },
+    {
+      "id": "niki ",
+      "name": "niki gite",
+      "password": "$2a$10$HhCjRabI82wBYzhLnXd.8OkNI.s6wyZ1eCHeXmBv636T9nzNSme/O",
+      "email": "niki@gmail.com",
+      "phone": "9359760020",
+      "country": "india",
+      "address": "Nashik",
+      "gender": "female"
+    },
+    {
+      "id": "nikita",
+      "name": "nikita gite",
+      "password": "$2a$10$2o4rkQP64A/cSsoUJi1p7.yf/T0BTV6fcARqGoMUEdGfogtRW1G8.",
+      "email": "niki@gmail.com",
+      "phone": "9359760010",
+      "country": "india",
+      "address": "nashik",
+      "gender": "female"
+    },
+    {
+      "id": "zz",
+      "name": "cvxv",
+      "password": "$2a$10$nhcA9eVisBn1ohhtdz.AvuqtdlYzKRLJ1ZLzc2sVEnBgiS37LS0cW",
+      "email": "zz@gmail.com",
+      "phone": "5656565656",
+      "country": "india",
+      "address": "dd",
+      "gender": "female"
+    }
+  ],
+  "customer": [
+    {
+      "id": "df24",
+      "own": "Nilesh",
+      "vno": "MH152475",
+      "rcbook": "433",
+      "bikerh": "20"
+    },
+    {
+      "id": "568c",
+      "vno": "mh22",
+      "rcbook": "33",
+      "bikerh": "2"
+    }
+  ],
+  "updateStatus": [
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    },
+    {
+      "id": "abcf",
+      "status": "Accepted"
+    }
+  ],
+  "feed": [
+    {
+      "id": "aecf",
+      "fname": "reshu",
+      "lname": "patil",
+      "email": "r@gm.c",
+      "texta": "jkdcuh"
+    }
+  ],
+  "form": [
+    {
+      "id": "abcf",
+      "custname": "Deu",
+      "dob": "2024-03-08",
+      "qty": "3",
+      "rate": "",
+      "amt": 12,
+      "status": ""
+    }
+  ],
+  "payment": [
+    {
+      "id": "45d3",
+      "cardn": "23322",
+      "ed": "23",
+      "email": "d@g.c",
+      "cv": "21312",
+      "pass": "ds",
+      "add": "asd",
+      "ad": "asd",
+      "city": "ad",
+      "state": "Rajasthan",
+      "zip": "sadc"
+    },
+    {
+      "id": "cc2f",
+      "cardn": "2222333344443222",
+      "ed": "22/55",
+      "email": "de@gmail.com",
+      "cv": "222",
+      "add": "f",
+      "ad": "ces",
+      "city": "cs",
+      "state": "Rajasthan",
+      "zip": "222333"
+    },
+    {
+      "id": "c604",
+      "cardn": "2223222233332222",
+      "ed": "22/55",
+      "email": "de@gmail.com",
+      "cv": "222",
+      "add": "33",
+      "ad": "df",
+      "city": "ced",
+      "state": "Punjab",
+      "zip": "222333"
+    },
+    {
+      "id": "57c3",
+      "cardn": "1111222233332222",
+      "ed": "22/33",
+      "email": "de@gmail.com",
+      "cv": "222",
+      "add": "xwdx",
+      "ad": "sx",
+      "city": "sdx",
+      "state": "Punjab",
+      "zip": "222333"
+    },
+    {
+      "id": "4175",
+      "cardn": "7858693614853696",
+      "ed": "04/28",
+      "email": "nilesh08@gmail.com",
+      "cv": "085",
+      "add": "rmd hostel",
+      "ad": "near shivsagar hostel",
+      "city": "chandwad",
+      "state": "Maharashtra",
+      "zip": "424301"
+    }
+  ]
+}
